@@ -1,4 +1,3 @@
-// 3-currency.js
 export default class Currency {
     constructor(code, name) {
       // Verify the types of attributes during object creation
